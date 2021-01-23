@@ -1,2 +1,2 @@
 # meaganburwell.github.io
-Meagan Burwell's web development projectss
+Meagan Burwell's web development projects
